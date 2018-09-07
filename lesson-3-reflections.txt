@@ -7,12 +7,16 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
-
+    I want control over my repo, deciding when to make the changes public.
+	
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork: Getting repos that are already published on GitHub with commit history, to your account.Owner knows you are working on something.
+			An open source s/w would be an appropriate example.
+	Branch: You/Your team are developing a new experimental feature, each member takes different approach.
+		The best one/combination of more than 1 branches may be selected.
+	Clones: Get a copy of repos with all of it's commit history from local/remote. Just getting a repo to work on you machine.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
