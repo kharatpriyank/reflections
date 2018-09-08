@@ -32,4 +32,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   When you're trying building a new feature, a plugin/extension, or maybe     just a small change like additional language support. You may have one branch for each version like :- 1. Branch 1 - bug fix 1
+		                2. Branch 2 - feature 1
+		                3. Branch 3 - language support 3
+Maybe multiple teams are working on branches 1, 2, 3 simultaneously, without affecting the code of others.
