@@ -26,7 +26,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Probably by using hard copy and paster.
+    But this method would be a lot more difficult one, since I'd have     to manually keep track of metadata, which now git looks after.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
